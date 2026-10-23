@@ -1,0 +1,1 @@
+export const skills = ['RF 系統設計與驗證', '天線與無線效能', 'RD / TPM', '跨部門專案整合', '產品設計 → 驗證 → 量產導入', '3G / 4G / 5G', '3GPP', 'SDR', 'Small Cell', 'UAV Communication', 'NTN', 'RF System Integration', 'PCB Design Review', 'GPIO / SPI / I2C', 'Clock / Power Architecture', 'Link Budget', 'AI-assisted Simulation & Design'];
